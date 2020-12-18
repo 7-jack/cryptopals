@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c15c8a95-6d17-48a0-aea6-55c8f571ba85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/set 2/p3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p1.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p3.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p4.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p4alternative.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p4alternative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p5.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p6.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p7.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/p8.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/p8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 1/randomtester.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 1/randomtester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 2/p1.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 2/p1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set 2/p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/set 2/p2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lltRJIml9JUH6TZzEL5WPbii1w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.p6">
+    <configuration name="p4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cryptopals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set 1/p4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cryptopals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set 1/p6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.p6" />
+        <item itemvalue="Python.p4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c15c8a95-6d17-48a0-aea6-55c8f571ba85" name="Default Changelist" comment="" />
+      <created>1608183496206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608183496206</updated>
+    </task>
+    <servers />
+  </component>
+</project>
